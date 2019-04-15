@@ -1,3 +1,6 @@
+# Electron Builder
+dist
+
 # Logs
 logs
 *.log
